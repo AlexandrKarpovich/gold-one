@@ -1,6 +1,6 @@
  для просмотра перейти по сылке:  
- AlexandrKarpovich.github.io/gold-one
+ #   AlexandrKarpovich.github.io/gold-one
  
  
  
-# gold-one
+# gold-one 
