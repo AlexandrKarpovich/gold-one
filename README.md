@@ -1,4 +1,5 @@
- для просмотра перейти по сылке:  AlexandrKarpovich.github.io/gold-one
+ для просмотра перейти по сылке:  
+ AlexandrKarpovich.github.io/gold-one
  
  
  
