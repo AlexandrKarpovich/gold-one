@@ -1,0 +1,27 @@
+@font-face {
+	font-family: 'Times New Roman';
+	src: url('TimesNewRomanPSMT.eot');
+	src: url('TimesNewRomanPSMT.eot?#iefix') format('embedded-opentype'),
+		url('TimesNewRomanPSMT.woff') format('woff'),
+		url('TimesNewRomanPSMT.ttf') format('truetype');
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "ArialBold";
+	src: url('Arial-BoldMT.eot');
+	src: url('Arial-BoldMT.eot?#iefix') format('embedded-opentype'),
+		url('Arial-BoldMT.woff') format('woff'),
+		url('Arial-BoldMT.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+@font-face {
+	font-family: "ArialMT";
+	src: url('Arial-BoMT.eot');
+	src: url('Arial-BoMT.eot?#iefix') format('embedded-opentype'),
+		url('Arial-BoMT.woff') format('woff'),
+		url('Arial-BoMT.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
